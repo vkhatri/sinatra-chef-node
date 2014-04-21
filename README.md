@@ -53,6 +53,12 @@ All api calls are route to '/node'. Available HTTP request methods are:
 - run_list : chef node run_list, more than one item ',' separated
 - env : chef node environment
 
+**Install Gems**
+
+```sh
+gem install sinatra json 
+```
+
 **Run App**
 
 ```sh
