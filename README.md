@@ -69,6 +69,11 @@ This App is designed to do limited tasks. It can have more functionality, but th
 does not seems a correct approach to solve the problem.
 
 
+TODO
+---
+
+Use Chef::Knife programmatic approach instead of knife command line binary
+
 License
 ----
 
