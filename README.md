@@ -6,7 +6,7 @@ Tiny Sinatra app to Create/Delete Chef Node/Clients.
 
 As Open Source Chef Server does not have RBAC User Access Control, setting up a restricted user access is not fully achievable. Using this App somewhat restricted user access can be implemented.
 
-> This App is not a replacement or alternative in any way to knife client or chef api
+> This App is not a replacement or an alternative in any way to knife client or chef api
 calls to perform what it does.
 
 **Where to Use it?**
