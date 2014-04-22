@@ -56,7 +56,7 @@ All api calls are route to '/node'. Available HTTP request methods are:
 **Install Gems**
 
 ```sh
-gem install sinatra json 
+gem install sinatra json chef
 ```
 
 **Run App**
